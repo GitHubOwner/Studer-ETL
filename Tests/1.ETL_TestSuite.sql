@@ -1,6 +1,0 @@
-CREATE PROCEDURE ETL_TestSuite
-AS
-BEGIN
-EXECUTE Structural_TestSuite;
-END
-GO
